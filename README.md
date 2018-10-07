@@ -1,4 +1,6 @@
-# portfolio: Personal projects around data analysis and machine learning
+# portfolio: 
+
+### Personal projects around data analysis and machine learning
 
  - Glassdoor scraping: using ```BeautifulSoup``` to scrape jobs data from Glassdoor.com in order understand job markets for given job keywords.
  - Loan foreclosure prediction: Data wrangling of the Fannie Mae US mortgage loans in order to build predictive models with ```sk-learn``` tools.
