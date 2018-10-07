@@ -1,4 +1,3 @@
-# portfolio
 ## Personal projects around data analysis and machine learning
 
  - Glassdoor scraping: using ```BeautifulSoup``` to scrape jobs data from Glassdoor.com in order understand job markets for given job keywords.
