@@ -7,3 +7,4 @@
  #### Still under work
  - Lichess data analysis: Exploration of the lichess dataset containing more than 100 G of chess games using ```PySpark```
  - Trading system: Trading platform for backtesting algorithmic strategies and live trading
+ - Chatbot: Creation of a chatbot using Neural networks and Reddit data
